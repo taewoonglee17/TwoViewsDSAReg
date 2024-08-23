@@ -7,8 +7,6 @@ Registration of a 3D mesh derived from MRA, CTA or 3d DSA onto two images of 2D 
   <img src="figs/registration_dsa_LAT.gif" alt="LAT" width="24%" />
 </p>
 
-![Alt Text](./figs/registration_dsa_LAT.gif)
-
 ## Usage
 - Inputs: 3D Mesh + Two DSA images, antero-posterior and lateral
 - Outputs: Camera pose Rotation and translation
