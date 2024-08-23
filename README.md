@@ -22,7 +22,6 @@ year = {2024},
 }
 ```
 
-
 ## Librararies
 The pose estimation is based on PyTorch3D differentiable rendering. The visualizer is based on PyVitsa.
 - Python 3.9.19
@@ -30,7 +29,7 @@ The pose estimation is based on PyTorch3D differentiable rendering. The visualiz
 - Pytorch3D 0.7.7
 - CUDA 11.8
 - PyVista 0.44.1
-- 
+
 ## Ressources
 We used this dataset of paired 3D/2D DSA images: https://lit.fe.uni-lj.si/en/research/resources/3D-2D-GS-CA/
 
