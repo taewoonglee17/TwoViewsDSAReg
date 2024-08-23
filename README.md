@@ -1,7 +1,11 @@
 # 3D/2D Registration of Angiograms using Silhouette-based Differentiable Rendering
 Registration of a 3D mesh derived from MRA, CTA or 3d DSA onto two images of 2D DSA using silhouette-based differentiable rendering.
 
-![Registration](./img/visu_skel.png)
+<p align="center">
+  <img src="figs/3D_Demo_DSA_Registration_Real_DSA.gif" alt="3D View" width="50%" />
+  <img src="figs/registration_dsa_AP.gif" alt="AP" width="24%" />
+  <img src="figs/registration_dsa_LAT.gif" alt="LAT" width="24%" />
+</p>
 
 ## Build
 The pose estimation is based on PyTorch3D differentiable rendering. The visualizer is based on PyVitsa.
