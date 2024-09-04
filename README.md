@@ -12,7 +12,7 @@ Registration of a 3D mesh derived from MRA, CTA or 3d DSA onto two images of 2D 
 - Outputs: Camera pose Rotation and translation
 
 ## Citation
-If you find this code useful for your research, please cite the following paper:
+If you find this code useful for your research, please cite the following paper (to be submitted):
 ```
 @article{Lee2024,
 author = {Taewoong Lee, Sarah Frisken and Nazim Haouchine},
