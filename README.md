@@ -30,7 +30,7 @@ The pose estimation is based on PyTorch3D differentiable rendering. The visualiz
 - CUDA 11.8
 - PyVista 0.44.1
 
-## Ressources
+## Resources
 We used this dataset of paired 3D/2D DSA images: https://lit.fe.uni-lj.si/en/research/resources/3D-2D-GS-CA/
 
 For a differentiable DSA renderer and 3D/2D registration, check [DiffPose by Vivek Gopalakrishnan](https://github.com/eigenvivek/DiffPose)
